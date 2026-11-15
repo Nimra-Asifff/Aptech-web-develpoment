@@ -1,0 +1,8 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Unrelated scratch files in this project folder
+/INDEX,HTML.html
+/JS,HTML.js
+/JS.HTML
